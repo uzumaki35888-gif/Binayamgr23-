@@ -1,0 +1,8 @@
+{
+  "name": "Remix Math Solver",
+  "description": "AI-powered math question solver with step-by-step explanations, scratchpad canvas, scientific calculator, and formula reference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
